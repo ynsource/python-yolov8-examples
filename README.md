@@ -1,6 +1,6 @@
 # YOLOv8 Examples in Python
 
-This repo contains YOLOv8 examples such as object detection, object tracking etc.
+This repo contains YOLOv8 examples such as object detection, object tracking etc.
 
 See also: https://github.com/ultralytics/ultralytics
 
@@ -16,8 +16,10 @@ For Windows (Python Version is 3.11): `%APPDATA%\Python\Python311\Scripts`
 
 # YOLOv8 Pretrained Models
 
-Instead of model.pt that trained for drones only you can type any YOLOv8
-model `yolov8n.pt, yolov8s.pt, yolov8m.pt, yolov8l.pt or yolov8x.pt`
+Instead of model.pt that trained for drones only you can type any YOLOv8 model
+```
+yolov8n.pt, yolov8s.pt, yolov8m.pt, yolov8l.pt or yolov8x.pt
+```
 
 See https://docs.ultralytics.com/tasks/detect/#models
 
