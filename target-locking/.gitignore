@@ -1,0 +1,2 @@
+# Ignore downloaded YOLOv8 Models
+yolov8*.pt

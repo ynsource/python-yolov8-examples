@@ -1,6 +1,6 @@
 # YOLOv8 Examples in Python
 
-This repo contains YOLOv8 examples such as object detection, object tracking etc.
+This repo contains YOLOv8 examples such as object detection, object tracking etc.
 
 See also: https://github.com/ultralytics/ultralytics
 
